@@ -6,7 +6,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.ViewModelProviders
 import kotlinx.android.synthetic.main.activity_main.*
 
-//123
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var myData: PremiumModel
